@@ -1,0 +1,10 @@
+Exercice-
+
+
+
+1. Create an Application with login as a module.
+
+2. Create an Application with different product Flavor as QA, PROD and DEV. All the flavor should have different application id.
+
+3. In exercise 2 generate the signed build for each product flavor.
+
